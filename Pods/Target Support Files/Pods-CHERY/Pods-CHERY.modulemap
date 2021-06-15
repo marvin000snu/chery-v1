@@ -1,0 +1,6 @@
+module Pods_CHERY {
+  umbrella header "Pods-CHERY-umbrella.h"
+
+  export *
+  module * { export * }
+}
